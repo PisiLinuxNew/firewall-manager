@@ -1,0 +1,143 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Bahadır Kandemir <bahadir@pardus.org.tr>, 2009
+# Klemens Häckel <click3d at linuxmail dot org>, 2009
+# yoyo308 <yoyofv@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: PiSiLinux\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-16 00:19+0300\n"
+"PO-Revision-Date: 2013-02-22 21:21+0000\n"
+"Last-Translator: yoyo308 <yoyofv@gmail.com>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/PiSiLinux/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: data/firewall-manager.desktop.in.h:1
+msgid "An application for managing firewall."
+msgstr "Un programa para administrar el cortafuegos"
+
+#: data/firewall-manager.desktop.in.h:2
+#: data/kcm_firewall-manager.desktop.in.h:1
+msgid "Firewall Manager"
+msgstr "Administrador de Cortafuegos"
+
+#: src/firewallmanager/about.py:26
+msgid "(c) 2006-2010 TUBITAK/UEKAE"
+msgstr "(c) 2006-2010 TUBITAK/UEKAE"
+
+#: src/firewallmanager/about.py:34
+msgid "Gökmen Göksel"
+msgstr "Gökmen Göksel"
+
+#: src/firewallmanager/about.py:34
+msgid "Current Maintainer"
+msgstr "Mantenedor actual"
+
+#: src/firewallmanager/about.py:35
+msgid "Bahadır Kandemir"
+msgstr "Bahadır Kandemir"
+
+#: src/firewallmanager/about.py:35
+msgid "First Developer"
+msgstr "Primer desarrollador"
+
+#: src/firewallmanager/about.py:36
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sus nombres"
+
+#: src/firewallmanager/about.py:36
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "Sus emails"
+
+#: src/firewallmanager/main.py:96
+msgid ""
+"There are no packages that provide backend for this application.\n"
+"Please make sure that packages are installed and configured correctly."
+msgstr "No hay paquete que proporcionen las funciones de esta pantalla.\nPor favor asegúrese que los paquetes respectivos están instalados y configurados de manera correcta."
+
+#: src/firewallmanager/main.py:200
+msgid "All"
+msgstr "Todos"
+
+#: src/firewallmanager/main.py:211
+msgid "Action"
+msgstr "Acción"
+
+#: src/firewallmanager/main.py:257 src/firewallmanager/main.py:280
+#: src/firewallmanager/main.py:317
+msgid "Access denied."
+msgstr "Acceso denegado."
+
+#: rc/firewallmanager/main.py:94
+msgid "Error"
+msgstr "Error"
+
+#: src/firewallmanager/pagedialog.py:31 src/firewallmanager/pagedialog.py:35
+msgid "Settings"
+msgstr "Configuración"
+
+#: src/firewallmanager/service.py:38
+msgid "Firewall is activated."
+msgstr "El cortafuegos está activo."
+
+#: src/firewallmanager/service.py:41
+msgid "Stop"
+msgstr "Detener"
+
+#: src/firewallmanager/service.py:43
+msgid "Firewall is deactivated."
+msgstr "El cortafuegos está desactivado."
+
+#: src/firewallmanager/service.py:46 ui/ui_service.py:47
+msgid "Start"
+msgstr "Iniciar"
+
+#: ui/ui_item.py:74
+msgid "Active or deactivate module."
+msgstr "Activar o desactivar módulo."
+
+#: ui/ui_item.py:75
+msgid "Edit"
+msgstr "Modificar"
+
+#: ui/ui_item.py:76
+msgid "Delete"
+msgstr "Eliminar"
+
+#: ui/ui_main.py:82
+msgid "Add New"
+msgstr "Agregar Nuevo"
+
+#: i/ui_settingsitem.py:78
+msgid "Add"
+msgstr "Agregar"
+
+#: i/ui_settingsitem.py:78
+msgid "Remove"
+msgstr "Eliminar"
+
+#: i/ui_settingsitem.py:78
+msgid "Move Up"
+msgstr "Subir"
+
+#: i/ui_settingsitem.py:78
+msgid "Move Down"
+msgstr "Bajar"
+
+#: src/firewallmanager/pagedialog.py:67
+msgid "Ok"
+msgstr "Ok"
+
+#: src/firewallmanager/pagedialog.py:71
+msgid "Cancel"
+msgstr "Cancelar"
